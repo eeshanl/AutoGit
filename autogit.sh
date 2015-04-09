@@ -6,7 +6,7 @@ if [ "$#" -gt 1 ]; then
   exit 1;
 fi
 
-git add .
+git add -A
 if [ "$#" -eq 1 ]; then
   git commit -m "$1"
 else
