@@ -5,6 +5,7 @@ if [ "$#" -gt 1 ]; then
   echo "Too many arguments"
   exit 1;
 fi
+
 git add -A
 if [ "$#" -eq 1 ]; then
   git commit -m "$1"
