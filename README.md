@@ -8,6 +8,6 @@ Tired of constantly using git commands when making changes to your code? Just us
 
 * Homebrew installation of this feature coming soon.
 
-### Not running?
+## Not running?
 
 Run this in your terminal: ```chmod +x autogit.sh```
