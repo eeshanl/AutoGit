@@ -4,7 +4,9 @@ Tired of constantly using git commands when making changes to your code? Just us
 
 * Automatically adds, commits, and pushes.
 
-* Use $1, argument 1, as the message for the commit. This is optional
+* Use $1, argument 1, as the message for the commit. (optional)
+
+* Homebrew installation of this feature coming soon.
 
 ### Not running?
 
